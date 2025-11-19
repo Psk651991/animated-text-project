@@ -12,7 +12,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #082032;
+  background-color: blue;
 }
 
 .container{
@@ -56,7 +56,7 @@ body{
     content: "";
     position: absolute;
     left: 0;
-    background-color: #082032;
+    background-color: blue;
     height: 100%;
     width: 100%;
     border-left: 2px solid #ff4c29;
@@ -73,3 +73,4 @@ body{
     }
 }
   
+
